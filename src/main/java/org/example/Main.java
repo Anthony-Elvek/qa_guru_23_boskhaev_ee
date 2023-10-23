@@ -2,9 +2,9 @@ package org.example;
 
 public class Main {
 
-    private static String msg = "Hello world!";
+    private static String message = "Hello QaGuru!";
     
     public static void main(String[] args) {
-        System.out.println(msg);
+        System.out.println(message);
     }
 }
